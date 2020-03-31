@@ -40,10 +40,10 @@ layout: layout_home_km
 
 ## ប្លក់ថ្មីៗ
 
-អត្ថបទប្លក់ថ្មីៗត្រូវបានបញ្ជូនទៅគេហទំព័រ (ជាភាសាខ្មែរ)។
+អត្ថបទប្លក់ថ្មីៗត្រូវបានបញ្ជូនទៅគេហទំព័រ ។
 
 <ul>
-  {% for post in site.posts_KM %}
+  {% for post in site.posts %}
     <li>
       <span>{{ post.date | date_to_string }}</span> &rarr; <a href="{{ post.url }}">{{ post.title }}</a>
     </li>

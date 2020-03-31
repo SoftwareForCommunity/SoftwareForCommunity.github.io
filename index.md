@@ -40,10 +40,10 @@ Information to help small business owners get financial relief.
 
 ## Recent Posts
 
-Posts recently submitted to the site (in English).
+Posts recently submitted to the site.
 
 <ul>
-  {% for post in site.posts_EN %}
+  {% for post in site.posts %}
     <li>
       <span>{{ post.date | date_to_string }}</span> &rarr; <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
