@@ -36,7 +36,7 @@ Updates on the status of various cities.
 
 ## Small Business Owners
 
-Information to help small business owners get relief. 
+Information to help small business owners get financial relief. 
 
 ## Recent Posts
 

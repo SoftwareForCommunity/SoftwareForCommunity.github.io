@@ -7,15 +7,15 @@ layout: layout_home
 
 ## ព័ត៌មានចាំបាច់
 
-Information related to the status of the SARS-CoV-2 (COVID-19).
+ព័ត៌មានទាក់ទងនឹងស្ថានភាពរបស់អេសអេសអេស - កូវី ២ (COVID-១៩)។
 
 * **Update 2020-03-30**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 * [Updates from CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html)
 * [Here's a link to some more content!](#)
 
-## Real-Time Updates
+## ការធ្វើបច្ចុប្បន្នភាពតាមពេលវេលាជាក់ស្តែង
 
-Updates on the status of various cities.
+ព័ត៌មានថ្មីៗស្តីពីស្ថានភាពទីក្រុងផ្សេងៗគ្នា។
 
 * **(2020-03-30) New York City: Avengers headquarters goes into lockdown**: [A quick, 1 sentence summary](#)
 * **(2020-03-28) Washington DC: City replaces all the batteries in local birds**: [A quick, 1 sentence summary](#)
@@ -24,26 +24,26 @@ Updates on the status of various cities.
 
 <details><summary>Find updates for your city.</summary>
 
-### Cities
-* [Chicago](#)
+### ទីក្រុង
+* [ទីក្រុងឈីកាហ្គោ | Chicago](#)
 * [Los Angeles (LA)](#)
-* [New York City (NYC)](#)
-* [Washington D.C. (DC)](#)
+* [ទីក្រុង​ញ៉ូ​យ៉​ក | New York City (NYC)](#)
+* [វ៉ាស៊ីនតោនឌីស៊ី។ | Washington D.C. (DC)](#)
 
 </details>
 
 <p></p>
 
-## Small Business Owners
+## ម្ចាស់អាជីវកម្មខ្នាតតូច
 
-Information to help small business owners get relief. 
+ព័ត៌មានដើម្បីជួយម្ចាស់អាជីវកម្មខ្នាតតូចទទួលបានការធូរស្បើយផ្នែកហិរញ្ញវត្ថុ។
 
-## Recent Posts
+## ប្លក់ថ្មីៗ
 
-Posts recently submitted to the site (in English).
+អត្ថបទប្លក់ថ្មីៗត្រូវបានបញ្ជូនទៅគេហទំព័រ (ជាភាសាខ្មែរ)។
 
 <ul>
-  {% for post in site.posts_EN %}
+  {% for post in site.posts_KM %}
     <li>
       <span>{{ post.date | date_to_string }}</span> &rarr; <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
