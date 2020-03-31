@@ -48,12 +48,13 @@ Find out how the...
 </ul>
 
 </details>
+<br></br>
 
 ## Khmer
 
 ### Essentials
 
-<details>Click here for more information in English!</summary>
+<details><summary><strong>Click here for more information in Khmer!</strong></summary>
 
 ### Real-Time Updates for your City
 
