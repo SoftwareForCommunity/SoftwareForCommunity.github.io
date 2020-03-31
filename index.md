@@ -1,6 +1,6 @@
 ---
 title: Software for Communities
-layout: home
+layout: layout_home
 ---
 
 # Coronavirus
