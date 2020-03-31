@@ -15,8 +15,6 @@ layout: layout_home
 
 [Here's a link to some more content!](#)
 
-<details><summary><strong>Click here for more information in English!</strong></summary>
-
 ### Real-Time Updates
 
 * **(2020-03-30) New Work City: Avengers headquarters goes into lockdown**: [A quick, 1 sentence summary](#)
@@ -47,27 +45,5 @@ Find out how the...
   {% endfor %}
 </ul>
 
-</details>
 <br></br>
 
-## Khmer
-
-### Essentials
-
-<details><summary><strong>Click here for more information in Khmer!</strong></summary>
-
-### Real-Time Updates for your City
-
-### Small Business Owners
-
-### Recent Posts
-
-<ul>
-  {% for post in site.posts_KM %}
-    <li>
-      <span>{{ post.date | date_to_string }}</span> &rarr; <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-</details>
