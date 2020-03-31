@@ -2,7 +2,6 @@
 layout: layout_posts_km
 title: "ជំងឺកូរ៉ូណាវីឆ្នាំ ២០១៩ (COVID-១៩) សេចក្តីសង្ខេបស្ថានភាព"
 date: date: 2020-03-31 00:04:00 -0500
-categories: COVID-១៩ សេចក្តីសង្ខេបស្ថានភាព
 ---
 
 # {{page.title}}
