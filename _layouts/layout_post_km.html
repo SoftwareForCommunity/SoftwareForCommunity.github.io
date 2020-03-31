@@ -1,0 +1,18 @@
+﻿---
+layout: layout_home_km
+---
+
+<div id="post">
+    {{ content }}
+</div>
+
+<div id="related">
+    <h2>ប្រកាសប្លុកដែលទាក់ទង</h2>
+    <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+        <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>

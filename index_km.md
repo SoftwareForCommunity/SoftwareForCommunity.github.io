@@ -1,6 +1,6 @@
 ﻿---
 title: កម្មវិធីសម្រាប់សហគមន៍
-layout: layout_home
+layout: layout_home_km
 ---
 
 # កូរ៉ូណាវ៉ាវី
