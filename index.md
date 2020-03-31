@@ -43,7 +43,7 @@ Information to help small business owners get financial relief.
 Posts recently submitted to the site.
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:3 %}
     <li>
       <span>{{ post.date | date_to_string }}</span> &rarr; <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
