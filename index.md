@@ -45,7 +45,7 @@ Posts recently submitted to the site.
 <ul>
   {% for post in site.posts limit:3 %}
     <li>
-      <span>{{ post.date | date_to_string }}</span> &rarr; <a href="{{ post.url }}">{{ post.title }}</a>
+      <span>{{ post.date | date_to_string }}</span> &rarr; <a href="{{ post.url }}">Test Title</a>
     </li>
   {% endfor %}
 </ul>
