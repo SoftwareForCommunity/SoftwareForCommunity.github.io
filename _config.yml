@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-markdown: kramdown
+markdown: CommonMarkGhPages
 title: Software for Communities
 description: Connecting people with the resources that they need across languages.
 highlighter: rouge
