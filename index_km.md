@@ -40,15 +40,10 @@ layout: layout_home_km
 
 ## ប្លក់ថ្មីៗ
 
-អត្ថបទប្លក់ថ្មីៗត្រូវបានបញ្ជូនទៅគេហទំព័រ ។
+អត្ថបទប្លក់ថ្មីៗត្រូវបានបញ្ជូនទៅគេហទំព័រ។
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date_to_string }}</span> &rarr; <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<iframe name="CVSummaryPost" src="./km/posts/post-km-2020-03-21-cv19-summary.md" frameborder="0" scrolling="auto"  marginwidth="5" marginheight="5" style="height:300px; width:100%;></iframe>
+
 
 <br></br>
 
