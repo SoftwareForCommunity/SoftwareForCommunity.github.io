@@ -1,11 +1,11 @@
----
-title: Software for Communities
+﻿---
+title: កម្មវិធីសម្រាប់សហគមន៍
 layout: layout_home
 ---
 
-# Coronavirus
+# កូរ៉ូណាវ៉ាវី
 
-## Essentials
+## ព័ត៌មានចាំបាច់
 
 Information related to the status of the SARS-CoV-2 (COVID-19).
 
