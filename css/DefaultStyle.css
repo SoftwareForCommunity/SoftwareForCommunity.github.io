@@ -415,7 +415,8 @@ header {
     position: fixed;
     -webkit-font-smoothing: subpixel-antialiased
 }
-    /*
+
+/*
     header ul {
         list-style: none;
         height: 40px;
@@ -440,7 +441,7 @@ header {
         header li:last-child a {
             border-radius: 0 5px 5px 0
         }
-    */
+    
 
     header ul a {
         line-height: 1;
@@ -460,6 +461,7 @@ header {
         header ul a:active {
             background-color: #f0f0f0
         }
+*/
 
 strong {
     color: #222;
