@@ -9,14 +9,13 @@ layout: layout_home
 
 ### Essentials
 
-<details>
-	<summary>Click here for more information.</summary>
+<details><summary><strong>Essentials</strong></summary>
 
-	**Update 2020-03-30**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Update 2020-03-30**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-	[Here's a link to some content!](#)
+[Here's a link to some content!](#)
 
-	[Here's a link to some more content!](#)
+[Here's a link to some more content!](#)
 
 </details>
 
