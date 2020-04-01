@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: layout_post
 title: "Test Post"
 date: 2020-03-31 18:00:00 -0500
 ---

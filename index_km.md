@@ -42,7 +42,7 @@ layout: layout_home_km
 
 អត្ថបទប្លក់ថ្មីៗត្រូវបានបញ្ជូនទៅគេហទំព័រ។
 
-<iframe name="CVSummaryPost" src="./km/posts/post-km-2020-03-21-cv19-summary" scrolling="auto"  marginwidth="5" marginheight="5" style="height:300px; width:100%;></iframe>
+<iframe name="CVSummaryPost" src="./km/posts/post-km-2020-03-21-cv19-summary" scrolling="auto"  marginwidth="5" marginheight="5" style="height:300px; width:100%; border:2px solid black></iframe>
 
 
 <br></br>
