@@ -22,11 +22,11 @@ layout: layout_home_km
 	* (2020-03-29) Retraction: birds are real
 * Something else
 
-<details><summary>Find updates for your city.</summary>
+<details><summary>ស្វែងរកបច្ចុប្បន្នភាពសម្រាប់ទីក្រុងរបស់អ្នក។</summary>
 
 ### ទីក្រុង
 * [ទីក្រុងឈីកាហ្គោ | Chicago](#)
-* [Los Angeles (LA)](#)
+* [ទីក្រុងឡូសអាន់ជឺឡេសរ (LA)](#)
 * [ទីក្រុង​ញ៉ូ​យ៉​ក | New York City (NYC)](#)
 * [វ៉ាស៊ីនតោនឌីស៊ី។ | Washington D.C. (DC)](#)
 
