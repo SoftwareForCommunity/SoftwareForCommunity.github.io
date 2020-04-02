@@ -42,9 +42,9 @@ layout: layout_home_km
 
 អត្ថបទប្លក់ថ្មីៗត្រូវបានបញ្ជូនទៅគេហទំព័រ។
 
-<details><summary>Find updates for your city.</summary>
+<details><summary>ជំងឺកូរ៉ូណាវីឆ្នាំ ២០១៩ (COVID-១៩) សេចក្តីសង្ខេបស្ថានភាព.</summary>
 
-<iframe name="CVSummaryPost" src="./km/posts/post-km-2020-03-21-cv19-summary" scrolling="auto"  marginwidth="5" marginheight="5" frameborder="0" style="height:200px; width:100%;"></iframe>
+<iframe name="CVSummaryPost" src="./km/posts/2020-03-21-cv19-summary" scrolling="auto"  marginwidth="5" marginheight="5" frameborder="0" style="height:200px; width:100%;"></iframe>
 
 </details>
 
