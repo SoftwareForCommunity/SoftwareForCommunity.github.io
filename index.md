@@ -48,9 +48,11 @@ You submit an application to the SBA, who will decide your loan amount based off
 
 * Click [here](https://www.uschamber.com/co/start/strategy/applying-for-sba-disaster-relief-loan) for more information from the US Chamber of Commerce.
 * Check out the [SBA EIDL Fact Sheet](./en/files/SBADisasterAssistance_ResourcesforBusinesses.pdf).
-* Check out the links to the [application](https://covid19relief.sba.gov/#/) and [homepage] (https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources#section-header-2). A sample application will be [here](#) when it is ready.
+* Check out the links to the [application](https://covid19relief.sba.gov/#/) and [homepage](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources#section-header-2). *A sample application will be [here](#) when it is ready.*
 
 </details>
+
+<p></p>
 
 ### Paycheck Protection Program (PPP) - Applications open April 3 for small businesses and April 10 for independent contractors
 
@@ -67,6 +69,8 @@ You can submit the PPP application to an approved SBA lender or federally insure
 * If your business is with Wells Fargo, their portal for PPP is up, but the application will be open when ready [here](https://update.wf.com/coronavirus/smallbusinessrelief/).
 
 </details>
+
+<p></p>
 
 ## Recent Posts
 
