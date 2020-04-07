@@ -121,7 +121,7 @@ layout: layout_home_km
 
 ព័ត៌មាន: [https://www.uschamber.com/co/start/strategy/applying-for-sba-disaster-relief-loan](https://www.uschamber.com/co/start/strategy/applying-for-sba-disaster-relief-loan)
 ព័ត៌មាន: [SBA EIDL Fact Sheet](https://drive.google.com/file/d/150JQZz8JmRfC2dv_r2vB5NOGkAczV_05/view?usp=sharing)
-ពាក្យស្នើសុំ: [https://covid19relief.sba.gov/#/](https://covid19relief.sba.gov/#/) និង [homepage here](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources#section-header-2); គំរូពាក្យស្នើសុំ [here](#).
+ពាក្យស្នើសុំ: [https://covid19relief.sba.gov/#/](https://covid19relief.sba.gov/#/) និង [homepage here](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources#section-header-2); គំរូពាក្យស្នើសុំ [here](https://drive.google.com/file/d/1xEyXtSi4FHOkV7OZLZG1vx2f2WovZtJC/view?usp=sharing).
 
 ### កម្មវិធីការពារប្រាក់បៀវត្សរ៍ (PPP) - ពាក្យសុំបើកនៅថ្ងៃទី 3 ខែមេសាសម្រាប់អាជីវកម្មខ្នាតតូចថ្ងៃទី 10 ខែមេសាសម្រាប់អ្នកម៉ៅការឯករាជ្យ (independent contractor)
 
