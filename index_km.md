@@ -104,13 +104,13 @@ layout: layout_home_km
 
 ភាពអត់ការងារធ្វើ ភាពពិការ និងការឈប់សម្រាកក្នុងគ្រួសារ
 
-នាយកដ្ឋានអភិវឌ្ឍន៍មុខរបរកាលីហ្វ័រញ៉ា (EDD) មានធនធានជាច្រើនសម្រាប់កម្មករដែលប្រឈមនឹងការលំបាក។ ប្រសិនបើនិយោជករបស់អ្នកបានបិទឬកាត់បន្ថយម៉ោងធ្វើការរបស់អ្នកត្រូវបានកាត់បន្ថយឬអ្នកត្រូវបានគេបញ្ឈប់អ្នកអាចដាក់ពាក្យសុំធានារ៉ាប់រងភាពគ្មានការងារធ្វើ៖  https://edd.ca.gov/Unemployment/Filing_a_Claim.htm
+នាយកដ្ឋានអភិវឌ្ឍន៍មុខរបរកាលីហ្វ័រញ៉ា (EDD) មានធនធានជាច្រើនសម្រាប់កម្មករដែលប្រឈមនឹងការលំបាក។ ប្រសិនបើនិយោជករបស់អ្នកបានបិទឬកាត់បន្ថយម៉ោងធ្វើការរបស់អ្នកត្រូវបានកាត់បន្ថយឬអ្នកត្រូវបានគេបញ្ឈប់អ្នកអាចដាក់ពាក្យសុំធានារ៉ាប់រងភាពគ្មានការងារធ្វើ៖ [https://edd.ca.gov/Unemployment/Filing_a_Claim.htm](https://edd.ca.gov/Unemployment/Filing_a_Claim.htm)
 
-ប្រសិនបើអ្នកមានជម្ងឺជាមួយជំងឺមេរោគខូវីដ-19ឬត្រូវបានលាតត្រដាងហើយមិនអាចធ្វើការបានអ្នកអាចដាក់ពាក្យបណ្តឹងទាមទារសំណងធានារ៉ាប់រងជនពិការ៖ https://edd.ca.gov/Disability/How_to_File_a_DI_Claim_in_SDI_Online.htm/
+ប្រសិនបើអ្នកមានជម្ងឺជាមួយជំងឺមេរោគខូវីដ-19ឬត្រូវបានលាតត្រដាងហើយមិនអាចធ្វើការបានអ្នកអាចដាក់ពាក្យបណ្តឹងទាមទារសំណងធានារ៉ាប់រងជនពិការ៖ [https://edd.ca.gov/Disability/How_to_File_a_DI_Claim_in_SDI_Online.htm/](https://edd.ca.gov/Disability/How_to_File_a_DI_Claim_in_SDI_Online.htm/)
 
-ប្រសិនបើអ្នកកំពុងថែទាំអ្នកផ្សេងដែលឈឺជាមួយជំងឺមេរោគខូវីដ-19ហើយមិនអាចធ្វើការបានសូមដាក់ពាក្យបណ្តឹងទាមទារការឈប់សម្រាកគ្រួសារដែលមានប្រាក់ឈ្នួល៖ https://edd.ca.gov/Disability/How_to_File_a_PFL_Claim_in_SDI_Online.htm/
+ប្រសិនបើអ្នកកំពុងថែទាំអ្នកផ្សេងដែលឈឺជាមួយជំងឺមេរោគខូវីដ-19ហើយមិនអាចធ្វើការបានសូមដាក់ពាក្យបណ្តឹងទាមទារការឈប់សម្រាកគ្រួសារដែលមានប្រាក់ឈ្នួល៖ [https://edd.ca.gov/Disability/How_to_File_a_PFL_Claim_in_SDI_Online.htm/](https://edd.ca.gov/Disability/How_to_File_a_PFL_Claim_in_SDI_Online.htm/)
 
-សម្រាប់សំណួរសំខាន់ៗផ្សេងទៀតពីEDD៖ https://edd.ca.gov/about_edd/coronavirus-2019/faqs.htm#UIBenefits
+សម្រាប់សំណួរសំខាន់ៗផ្សេងទៀតពីEDD៖ [https://edd.ca.gov/about_edd/coronavirus-2019/faqs.htm#UIBenefits](https://edd.ca.gov/about_edd/coronavirus-2019/faqs.htm#UIBenefits)
 
 ### ម្ចាស់អាជីវកម្មខ្នាតតូច
 
@@ -123,9 +123,9 @@ layout: layout_home_km
 ជំនួយនេះនឹងជាផ្នែកមួយនៃចំនួនប្រាក់កម្ចីរបស់អ្នកប៉ុន្តែ**នឹងត្រូវបានអភ័យទោសទាំងស្រុងប្រសិនបើអ្នកប្រើវាទាក់ទងរកការជួល, ឧករណ៍ប្រើប្រាស់និងប្រាក់ឈ្នួល**។
 អ្នកអាចមានលក្ខណៈគ្រប់គ្រាន់សម្រាប់ប្រាក់កម្ចីប៉ុន្តែមិនមានលក្ខណៈគ្រប់គ្រាន់សម្រាប់ជំនួយជាមុនទេ។ ឬអ្នកអាចមានលក្ខណៈគ្រប់គ្រាន់សម្រាប់ប្រាក់កម្ចីនិងប្រាក់ជំនួយជាមុនទាំងពីរ។
 
-ព័ត៌មាន: https://www.uschamber.com/co/start/strategy/applying-for-sba-disaster-relief-loan
+ព័ត៌មាន: [https://www.uschamber.com/co/start/strategy/applying-for-sba-disaster-relief-loan](https://www.uschamber.com/co/start/strategy/applying-for-sba-disaster-relief-loan)
 ព័ត៌មាន: [SBA EIDL Fact Sheet](https://drive.google.com/file/d/150JQZz8JmRfC2dv_r2vB5NOGkAczV_05/view?usp=sharing)
-ពាក្យស្នើសុំ: https://covid19relief.sba.gov/#/ និង [homepage here](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources#section-header-2); គំរូពាក្យស្នើសុំ [here](#).
+ពាក្យស្នើសុំ: [https://covid19relief.sba.gov/#/](https://covid19relief.sba.gov/#/) និង [homepage here](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources#section-header-2); គំរូពាក្យស្នើសុំ [here](#).
 
 ### កម្មវិធីការពារប្រាក់បៀវត្សរ៍ (PPP) - ពាក្យសុំបើកនៅថ្ងៃទី 3 ខែមេសាសម្រាប់អាជីវកម្មខ្នាតតូចថ្ងៃទី 10 ខែមេសាសម្រាប់អ្នកម៉ៅការឯករាជ្យ (independent contractor)
 
@@ -133,14 +133,14 @@ layout: layout_home_km
 
 អ្នកអាចបញ្ជូនពាក្យសុំ PPP ទៅអ្នកផ្តល់ប្រាក់កម្ចី SBA ដែលបានយល់ព្រមឬស្ថាប័នតំកល់ប្រាក់ធានារ៉ាប់រងសហព័ន្ធ។ អ្នកមិនចាំបាច់បង្ហាញពីការបាត់បង់ប្រាក់ចំណូលទេ, ប៉ុន្តែអ្នកត្រូវតែគ្រាន់តែបង្ហាញជាភ័ស្តុតាងបញ្ជាក់ថាអ្នករក្សាប្រាក់ខែ។ ពាក្យសុំគំរូមាននៅលើគេហទំព័រSBA, ប៉ុន្តែទម្រង់ពិតប្រាកដនឹងមាននៅថ្ងៃទី 3ខែមេសា។ ប្រើគំរូនេះដើម្បីរៀបចំលេខរបស់អ្នក។ ឯកសារនៃប្រាក់ខែនឹងត្រូវការ។
 
-SBA PPP ទំព័រ: https://www.sba.gov/funding-programs/loans/paycheck-protection-program-ppp
+SBA PPP ទំព័រ: [https://www.sba.gov/funding-programs/loans/paycheck-protection-program-ppp](https://www.sba.gov/funding-programs/loans/paycheck-protection-program-ppp)
 គំរូពាក្យស្នើសុំ, [click here](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf).
-ព័ត៌មានអំពីPPPចេញផ្សាយ​ដោយនាយកដ្ឋានរតនាគារសហរដ្ឋអាមេរិក : https://home.treasury.gov/system/files/136/PPP--Fact-Sheet.pdf
-អត្ថបទព័ត៌មានដែលមានប្រយោជន៍: https://www.washingtonpost.com/business/2020/03/30/heres-how-get-small-business-loan-under-349-billion-coronavirus-aid-bill/
+ព័ត៌មានអំពីPPPចេញផ្សាយ​ដោយនាយកដ្ឋានរតនាគារសហរដ្ឋអាមេរិក : [https://home.treasury.gov/system/files/136/PPP--Fact-Sheet.pdf](https://home.treasury.gov/system/files/136/PPP--Fact-Sheet.pdf)
+អត្ថបទព័ត៌មានដែលមានប្រយោជន៍: [https://www.washingtonpost.com/business/2020/03/30/heres-how-get-small-business-loan-under-349-billion-coronavirus-aid-bill/](https://www.washingtonpost.com/business/2020/03/30/heres-how-get-small-business-loan-under-349-billion-coronavirus-aid-bill/)
 
-ប្រសិនបើអាជីវកម្មរបស់អ្នកនៅជាមួយ Wells Fargo វិបផតថលរបស់ពួកគេសម្រាប់PPPបានកើនឡើងប៉ុន្តែពាក្យសុំនឹងបើកនៅពេលត្រៀមរួចរាល់: https://update.wf.com/coronavirus/smallbusinessrelief/ 
+ប្រសិនបើអាជីវកម្មរបស់អ្នកនៅជាមួយ Wells Fargo វិបផតថលរបស់ពួកគេសម្រាប់PPPបានកើនឡើងប៉ុន្តែពាក្យសុំនឹងបើកនៅពេលត្រៀមរួចរាល់: [https://update.wf.com/coronavirus/smallbusinessrelief/](https://update.wf.com/coronavirus/smallbusinessrelief/) 
 
-Report hate crimes: http://www.asianpacificpolicyandplanningcouncil.org/stop-aapi-hate/ 
+Report hate crimes: [http://www.asianpacificpolicyandplanningcouncil.org/stop-aapi-hate/](http://www.asianpacificpolicyandplanningcouncil.org/stop-aapi-hate/)
 
 ## ប្លក់ថ្មីៗ
 
