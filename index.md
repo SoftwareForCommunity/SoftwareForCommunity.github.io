@@ -3,13 +3,13 @@ title: Software for Communities
 layout: layout_home
 ---
 
-# Coronavirus
+# Coronavirus 
 
-## Essentials
+## Essential Information
 
 Information related to the status of the SARS-CoV-2 (COVID-19).
 
-* [Updates from CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html)
+* [CDC Summary](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html)
 
 ## Real-Time Updates
 

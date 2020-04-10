@@ -1,5 +1,5 @@
 ﻿<!doctype html>
-<html lang="{{ site.lang | default: "km" }}">
+<html lang="{{ site.lang | default: "vi" }}">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
@@ -13,25 +13,24 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 </head>
-  <body>
+<body>
     <div class="wrapper">
         <header>
-            <a href="https://softwareforcommunity.github.io/index_km"> <h1><div style="font-family: 'Cairo', serif;">កម្មវិធីសម្រាប់សហគមន៍</div></h1> </a>
-            <p>ភ្ជាប់មនុស្សជាមួយនឹងធនធានដែលពួកគេត្រូវការនៅទូទាំងភាសា។</p>
+            <a href="https://softwareforcommunity.github.io/index_vi"> <h1><div style="font-family: 'Cairo', serif;">Phần mềm cho cộng đồng</div></h1> </a>
+            <p>Kết nối mọi người với các tài nguyên mà họ cần trên các ngôn ngữ.</p>
 
             <!--{% if site.github.is_project_page %}
       <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ github_name }}</small></a></p>
     {% endif %}-->
 
-            <h4>ជ្រើសរើសភាសារបស់អ្នក:</h4>
+            <h4>Chọn ngôn ngữ của bạn:</h4>
             <p><a href="https://softwareforcommunity.github.io/">English</a></p>
             <p><a href="#">Bahasa Indonesia</a></p> <!-- Indonesian -->
             <p><a href="https://softwareforcommunity.github.io/index_km">ភាសាខ្មែរ</a></p> <!-- Khmer: KM -->
             <p><a href="#">ລາວ</a></p> <!-- Laotian -->
             <p><a href="#">Tagalog</a></p> <!-- Tagalog -->
             <p><a href="#">ไทย</a></p> <!-- Thai -->
-            <p><a href="https://softwareforcommunity.github.io/index_vi">Tiếng Việt</a></p> <!-- Vietnamese: VI -->
-
+            <p><a href="#">Tiếng Việt</a></p> <!-- Vietnamese: VI -->
             <!--{% if site.github.is_user_page %}
       <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
     {% endif %} -->
@@ -43,22 +42,22 @@
       </ul>
     {% endif %}-->
         </header>
-      <section>
+        <section>
 
-      {{ content }}
+            {{ content }}
 
-      </section>
-      <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <!--<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
-      </footer>
+        </section>
+        <footer>
+            {% if site.github.is_project_page %}
+            <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+            {% endif %}
+            <!--<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
+        </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
 
-  {% if site.google_analytics %}
+    {% if site.google_analytics %}
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -67,6 +66,6 @@
         ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');
     </script>
-  {% endif %}
-  </body>
+    {% endif %}
+</body>
 </html>
