@@ -44,8 +44,7 @@ Quí vị nộp đơn cho SBA, và SBA sẽ dựa trên tờ khai thuế của
 
 * Info: [https://www.uschamber.com/co/start/strategy/applying-for-sba-disaster-relief-loan](https://www.uschamber.com/co/start/strategy/applying-for-sba-disaster-relief-loan)
 * Info: [SBA EIDL Fact Sheet](https://drive.google.com/file/d/150JQZz8JmRfC2dv_r2vB5NOGkAczV_05/view?usp=sharing)
-* Application: [https://covid19relief.sba.gov/#/](https://covid19relief.sba.gov/#/) and [homepage here](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources#section-header-2); Sample application here.
-
+* Application: [https://covid19relief.sba.gov/#/](https://covid19relief.sba.gov/#/) and [homepage here](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources#section-header-2); Sample application [here](https://drive.google.com/file/d/1xEyXtSi4FHOkV7OZLZG1vx2f2WovZtJC/view?usp=sharing).
 
 <!-- </details> -->
 
