@@ -18,10 +18,11 @@ Updates on the status of various cities.
 <details><summary>Find updates for your city.</summary>
 
 ### Cities
-* [Chicago](#)
-* [Los Angeles (LA)](#)
-* [New York City (NYC)](#)
-* [Washington D.C. (DC)](#)
+* Chicago
+* Los Angeles (LA)
+* New York City (NYC)
+* Washington D.C. (DC)
+	* [Fairfax County Announces Small Business Recovey MicroLoan Fund](https://fairfaxcountyemergency.wpcomstaging.com/2020/04/14/fairfax-county-announces-small-business-recovery-microloan-fund/)
 
 </details>
 
