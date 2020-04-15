@@ -20,6 +20,7 @@ Updates on the status of various cities.
 ### Cities
 * Chicago
 * Los Angeles (LA)
+	* [Information about the Angeleno Card (financial assistance for low income LA residents)](https://hcidla.lacity.org/)
 * New York City (NYC)
 * Washington D.C. (DC)
 	* [Fairfax County Announces Small Business Recovey MicroLoan Fund](https://fairfaxcountyemergency.wpcomstaging.com/2020/04/14/fairfax-county-announces-small-business-recovery-microloan-fund/)
