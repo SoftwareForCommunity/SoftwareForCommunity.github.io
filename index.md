@@ -23,6 +23,7 @@ Updates on the status of various cities.
 * New York City (NYC)
 * Washington D.C. (DC)
 	* [Fairfax County Announces Small Business Recovey MicroLoan Fund](https://fairfaxcountyemergency.wpcomstaging.com/2020/04/14/fairfax-county-announces-small-business-recovery-microloan-fund/)
+	* [Information on COVID-19 Case Reporting in the Fairfax Health District](https://fairfaxcountyemergency.wpcomstaging.com/2020/04/06/information-on-covid-19-case-reporting-in-the-fairfax-health-district/)
 
 </details>
 
