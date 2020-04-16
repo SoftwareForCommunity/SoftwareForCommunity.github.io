@@ -52,6 +52,8 @@ You submit an application to the SBA, who will decide your loan amount based off
 
 ### Paycheck Protection Program (PPP) - Applications open April 3 for small businesses and April 10 for independent contractors
 
+* UPDATE: As of April 16th, 2020 the PPP has run out of funds, and Congressional negotiations are ongoing to add additional financing. See more details [here](https://www.cnbc.com/2020/04/16/small-business-rescue-loan-program-hits-349-billion-limit-and-is-now-out-of-money.html)
+
 <details><summary>Click here for more details.</summary>
 
 This 7(a) loan is for 2.5 times your monthly average payroll costs based off last year (up to $10 million). This can be used on payroll, rent, and utilities. If you use at least 75% of the total loan amount on payroll within 8 weeks (and this is a hard rule, as an SBA customer service rep told me), then your total loan will be forgivable. If not, then you will repay your loan at 0.5% interest rate. Loan repayments begin 6 months after the loan is approved and must be repaid within 2 years.
